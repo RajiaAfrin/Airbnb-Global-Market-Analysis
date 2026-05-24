@@ -19,9 +19,7 @@ Insights and recommendations are provided on the following key areas:
 
 This project was created using **Power BI, Power Query, and DAX**. 
 
-An interactive Power BI dashboard can be found here: `https://drive.google.com/file/d/1_z7KCZtpWB3g7u8w2f9kJZTiKvgSYUGE/view?usp=drive_link`
-
-
+An interactive Power BI dashboard can be found here: -<a href="https://drive.google.com/file/d/1_z7KCZtpWB3g7u8w2f9kJZTiKvgSYUGE/view?usp=drive_link">Dashboard</a>
 ## Data Structure & Initial Checks
 
 The dashboard is built using two main tables:
